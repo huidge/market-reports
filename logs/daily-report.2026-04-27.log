@@ -1,0 +1,51 @@
+Please wait for a moment:   0%|          | 0/69 [00:00<?, ?it/s]Please wait for a moment:   1%|▏         | 1/69 [00:00<00:39,  1.70it/s]Please wait for a moment:   3%|▎         | 2/69 [00:01<00:39,  1.70it/s]Please wait for a moment:   4%|▍         | 3/69 [00:01<00:38,  1.72it/s]Please wait for a moment:   6%|▌         | 4/69 [00:02<00:43,  1.51it/s]Please wait for a moment:   7%|▋         | 5/69 [00:02<00:37,  1.71it/s]Please wait for a moment:   9%|▊         | 6/69 [00:03<00:33,  1.86it/s]Please wait for a moment:  10%|█         | 7/69 [00:03<00:32,  1.91it/s]Please wait for a moment:  12%|█▏        | 8/69 [00:04<00:31,  1.94it/s]Please wait for a moment:  13%|█▎        | 9/69 [00:05<00:39,  1.52it/s]Please wait for a moment:  14%|█▍        | 10/69 [00:06<00:43,  1.35it/s]Please wait for a moment:  16%|█▌        | 11/69 [00:07<00:48,  1.21it/s]Please wait for a moment:  17%|█▋        | 12/69 [00:08<00:48,  1.17it/s]Please wait for a moment:  19%|█▉        | 13/69 [00:09<00:53,  1.05it/s]Please wait for a moment:  20%|██        | 14/69 [00:09<00:44,  1.23it/s]Please wait for a moment:  22%|██▏       | 15/69 [00:10<00:37,  1.43it/s]Please wait for a moment:  23%|██▎       | 16/69 [00:10<00:32,  1.61it/s]Please wait for a moment:  25%|██▍       | 17/69 [00:12<00:46,  1.13it/s]Please wait for a moment:  26%|██▌       | 18/69 [00:13<00:43,  1.17it/s]Please wait for a moment:  28%|██▊       | 19/69 [00:14<00:47,  1.06it/s]Please wait for a moment:  29%|██▉       | 20/69 [00:15<00:48,  1.02it/s]                                                                         
+报告已保存到: ../daily/2026-04-27.md
+# A股每日交易汇总报告 — 2026年04月27日（周一）
+
+## 📊 主要指数收盘
+
+| 指数 | 收盘 | 涨跌幅 |
+|------|------|--------|
+| 上证指数 | 4086.34 | +0.16% |
+| 深证成指 | 14995.75 | +0.37% |
+| 创业板指 | 3648.79 | -0.52% |
+| 科创50 | 1508.38 | **+3.76%** |
+| 沪深300 | 4770.95 | +0.03% |
+| 上证50 | 2939.05 | -0.20% |
+| 北证50 | 1361.47 | -0.64% |
+| 中证500 | 8299.05 | +0.62% |
+| 中证1000 | 8338.73 | +0.42% |
+
+**数据获取中...**
+
+## 📈 行业板块涨跌排行
+
+**涨幅 TOP10**
+
+| 板块 | 涨跌幅 | 主力净流入 | 领涨股 |
+|------|--------|-----------|--------|
+> 行业板块数据获取失败: 'NoneType' object has no attribute 'nlargest'
+
+## 💰 行业板块资金净流入
+
+**净流入 TOP10**
+
+| 板块 | 净流入 | 涨跌幅 |
+|------|--------|--------|
+> 资金流向数据获取失败: 'NoneType' object has no attribute 'nlargest'
+
+## 🔥 近期热门概念板块
+
+> 概念板块获取失败: 'NoneType' object has no attribute 'text'
+
+## 📊 个股涨跌统计
+
+> 个股统计获取失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+## 💡 市场总结
+
+> （此部分由 AI 根据以上数据自动补充）
+
+---
+
+*数据来源：Sina + Sina日线 | 数据时间：2026-04-27*
